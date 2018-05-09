@@ -1,8 +1,6 @@
 User-agent: *
-Disallow: /A/
-Disallow: /B/
+Disallow: /A/B/
 Disallow: /C/
-Disallow: /d/
-Disallow: /1.jpg
+Disallow: /A/321.jpg
 
 Sitemap: https://ailaugh1215.github.io.com/sitemap.xml
