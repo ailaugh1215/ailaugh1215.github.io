@@ -1,12 +1,4 @@
 User-agent: *
-Disallow: /A/
-Disallow: /B/
-Disallow: /C/
-Disallow: /e/
-Disallow: /123.jpg
-
-User-agent: baiduspider
-Disallow: /SEO/
-Disallow: /123.gif
+Disallow: /favicon.ico
 
 Sitemap: https://ailaugh1215.github.io.com/sitemap.xml
